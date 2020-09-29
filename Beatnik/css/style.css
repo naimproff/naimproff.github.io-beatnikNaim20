@@ -1,0 +1,99 @@
+nav ul{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+.logo{margin-left: 50px;}
+nav ul li a{
+	text-decoration: none;
+	float: left;
+	color: #666;
+	padding: 10px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.greyColor a{
+	color: #999999;
+}
+nav{
+	margin-left: 100px;
+	background-color: #fff;
+	min-height: 50px;
+	border-bottom-left-radius: 10px; 
+}
+.loginBtn{
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #e87722;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: #fff;
+	margin-left: 420px;
+	margin-top: 2px;
+	border: none;
+	border-radius: 2px;
+}
+.headPhn{margin-top: 2px; margin-left: 10px;}
+.en{padding-top: 10px; padding-bottom: 10px;border-top: none; border-bottom: none;border-right: none;margin-top: -5px;}
+
+.arrowIcon1{font-size: 40px; margin-left: 20px; margin-top: 100px;}
+.arrowIcon2{font-size: 40px; margin-right: 20px; margin-top: -75px;}
+.bigText{margin-top: -100px;margin-left: 200px;}
+.bigText h1{color: blue;font-weight: bolder;}
+
+.cardFloat{
+	float: left;
+}
+.card{height: 100px;}
+.cardStyle{ width: 100px;}
+.card-header{height: 2px !important;}
+.card-header p{font-size: 7px;font-weight: bold; padding: 0; margin-top: -5px;text-align: center;}
+
+.whatUNeed{
+	background: white;
+	height: 80px;
+	border-radius: 15px;
+	width: 600px;
+	margin: auto;
+	margin-top: -50px;
+}
+.floatP{float: left;text-align: center; font-size: 10px;}
+.floatP i{color: #e87722; padding: 3px; border: 1px solid #b9b9b9; border-radius: 4px;}
+.floatDiv{float: left;}
+
+.policyInfo{
+	margin: auto;
+	width: 800px;
+	height: 100px;
+}
+.policyInfo p{
+	padding: 20px; background: #e3e9ff; border-radius: 5px;
+	float: left;
+	margin-left: 20px;
+	font-weight: bold;
+}
+.ourProduct{
+	padding-top: 70px;
+	text-decoration: none;	
+}
+
+.ourProduct li{
+	list-style: none;
+	margin-left: 35px;
+	margin-bottom: 40px;;
+	padding: 10px;
+	color: #b9b9b9;
+	cursor: pointer;
+}
+.ourProduct li:hover{font-weight: bold;}
+
+.floatBtn{float: left;}
+.box{float: left;}
+
+.icon{
+	float: left;
+}
+.footer p{font-size: 14px; color: #666;}
+.feedback{display: block;margin-left: auto;margin-top: -100px;}
